@@ -41,6 +41,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:tumajerj@uni-greifswald.de
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jan_Tumajer
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7773-7081
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XsWUOlEAAAAJ&hl=cs&oi=sra
