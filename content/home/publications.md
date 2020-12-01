@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
 
-[Increasing moisture limitation of Norway spruce in Central Europe revealed by forward modelling of tree growth in tree-ring network]({{< ref "content/publication/2017Increasing-moisture/index.md" >}})
+[2017Increasing-moisture]({{< ref "content/publication/2017Increasing-moisture/index.md" >}})
 
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
