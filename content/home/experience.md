@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-01"
   date_end = "2021-10-30"
   description = """
-PostDoctoral project funded by Alexander von Humboldt-foundation
+PostDoctoral project focused on proces-based modelling of tree-ring formation, funded by Alexander von Humboldt-foundation
   """
 
 [[experience]]
