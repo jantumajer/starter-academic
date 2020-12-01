@@ -12,7 +12,7 @@ subtitle = ""
 
 [Models]({{< ref "content/project/Model/index.md" >}})
 
-[QWA]({{< ref "content/project/QWA/index.md" >}})
+[QWA]({{< ref "content/project/QWA/Index.md" >}})
 
 
   # Page type to display. E.g. project.
