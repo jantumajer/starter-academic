@@ -8,11 +8,12 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "Publications"
+
+({{< ref "content/publication/2017Increasing-moisture/index.md" >}})
 
 [content]
 
-[2017Increasing-moisture]({{< ref "content/publication/2017Increasing-moisture/index.md" >}})
 
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
