@@ -10,8 +10,6 @@ weight = 90  # Order that this section will appear.
 title = "Publications"
 subtitle = "Publications"
 
-({{< ref "content/publication/2017Increasing-moisture/index.md" >}})
-
 [content]
 
 
