@@ -4,6 +4,7 @@
 title: "Increasing moisture limitation of Norway spruce in Central Europe revealed by forward modelling of tree growth in tree-ring network"
 authors: [Jan Tumajer, Jan Altman, Petr Štěpánek, Václav Treml, Jiří Doležal, Emil Cienciala]
 date: 2020-12-01T14:06:43+01:00
+journal: Agricultural and Forest Meteorology
 doi: "10.1016/j.agrformet.2017.07.015"
 
 # Schedule page publish date (NOT publication's date).
