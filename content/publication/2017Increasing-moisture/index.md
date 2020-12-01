@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Increasing moisture limitation of Norway spruce in Central Europe revealed by forward modelling of tree growth in tree-ring network"
+title: "2017Increasing-moisture"
 authors: [Jan Tumajer, Jan Altman, Petr Štěpánek, Václav Treml, Jiří Doležal, Emil Cienciala]
 date: 2020-12-01T14:06:43+01:00
 journal: Agricultural and Forest Meteorology
