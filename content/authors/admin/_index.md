@@ -6,7 +6,7 @@ title: Jan Tumajer
 superuser: true
 
 # Role/position
-role: PostDoc in process-based modelling of wood formation
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include process-based modelling, cambial phenology and forest ecology.
 
 interests:
-- Process-based modelling of tree-ring formation
+- Process-based modelling
 - Forest Ecology
 - Quantitative Wood Anatomy
 
@@ -26,10 +26,10 @@ education:
   - course: PhD in Physical Geography and Geoecology
     institution: Charles University, Prague, Czech Republic
     year: 2018
-  - course: Mgr in Physical Geography and Geoecology
+  - course: Master in Physical Geography and Geoecology
     institution: Charles University, Prague, Czech Republic
     year: 2014
-  - course: Bc in Geography and Cartography
+  - course: Bachelor in Geography and Cartography
     institution: Charles University, Prague, Czech Republic
     year: 2011
 
