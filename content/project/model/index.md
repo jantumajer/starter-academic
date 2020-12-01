@@ -41,7 +41,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
----
 
 Forest ecosystems worldwide are recently facing unprecedented climate change. Both environmental and socio-economic importance of forests increases the need for understanding their responses to climate change in all spatial (from cells to ecosystems) and temporal (from intra-annual to multi-centennial) scales. However, studies on the multi-decadal shifts in intra-annual growth dynamics are missing due to the lack of sites with long direct intra-annual monitoring of cambial activity.
 The proposed project aims to fill this gap by developing and applying climatically-driven process-based models to produce long chronologies of intra-annual growth dynamics (cambial phenology and kinetics of wood formation) over large spatial gradients from coastal lowlands to treeline. Simulated series of growth dynamics are used to quantify individual species intra-annual growth plasticity as a predictor for the future performance under changing environmental conditions.
+
+---
+
