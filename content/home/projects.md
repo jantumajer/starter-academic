@@ -9,6 +9,9 @@ title = "Projects"
 subtitle = ""
 
 [content]
+
+[Models]({{< ref "content/project/Model/index.md" >}})
+
   # Page type to display. E.g. project.
   page_type = "project"
   
