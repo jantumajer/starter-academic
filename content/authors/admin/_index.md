@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Jan Tumajer is doing research ...
+Jan Tumajer is a PostDoc in the Institute of Botany and Landscape Ecology at the University of Greifswald, Germany. He applies climate-driven process-based models of wood formation to quantify the between-sepcies differences in the plasticity of growth dynamics to climate change. 
