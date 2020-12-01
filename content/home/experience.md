@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PostDoctoral researcher"
+  company = "Institute of Botany and Landscape Ecology, University of Greifswald"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Greifswald, Germany"
+  date_start = "2020-03-01"
+  date_end = "2021-10-30"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+PostDoctoral project funded by Alexander von Humboldt-foundation
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research associate"
+  company = "Department of Physical Geography and Geoecology, Charles University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Prague, Czech Republic"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """Teaching and research in the field of forest ecology"""
+ 
+ [[experience]]
+  title = "Independent researcher"
+  company = "IFER-Institute of Forest Ecosystem Research"
+  company_url = ""
+  location = "Jilove, Czech Republic"
+  date_start = "2014-02-01"
+  date_end = "2019-09-01"
+  description = """Research in the field of forest ecology and standardized forest inventories"""
+
 
 +++
